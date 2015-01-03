@@ -14,11 +14,11 @@ gem 'coffee-rails', '~> 4.1.0'
 # gem 'therubyracer', platforms: :ruby
 gem 'bootstrap-sass'
 
-group: development, :test do
+group :development, :test do
 # Use sqlite3 as the database for Active Record
 gem 'sqlite3'
 
-group: production do
+group :production do
   gem 'pg'
   gem 'rails_12factor'
 end
