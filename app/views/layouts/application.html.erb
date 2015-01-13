@@ -2,15 +2,20 @@
 <html>
 <head>
   <title>Pinteresting</title>
-  <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track' => true %>
-  <%= javascript_include_tag 'application', 'rails generate controller pages homerails generate controller pages homedata-turbolinks-track' => true %>
+  <%= # noins  pection RailsParamDefResolve
+      stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track' => true %>
+  <%= javascript_include_tag 'application', 'data-turbolinks-track' => true %>
   <%= csrf_meta_tags %>
 </head>
 <body>
-    <%= render 'layouts/header' %>
-    <div class="container">
-      <%= yield %>
-    </div>
+<%= render 'layouts/header' %>
+
+<div class="container">
+  <% flash.each do |name, msg| %>
+      <%= content_tag(:div, msg, class: "alert alert-info") %>
+  <% end %>
+  <%= yield %>
+</div>
 
 </body>
 </html>
