@@ -4,31 +4,37 @@
   <div class="panel-heading">
     <div class="panel-title">
         <!-- <p id="notice"><%= notice %></p>  This is alert that is not require since we have it -->
-         <h1>Interesting</h1>
+         My Photos | Mis Fotos
     </div>
   </div>
 
 
 
-  <div id="pins" class="transitions-enabled">
-    <% @pins.each do |pin| %>
-        <div class="box panel panel-default">
+      <div id="pins" class="transitions-enabled">
+        <% @pins.each do |pin| %>
+            <div class="box panel panel-default">
 
-          <%= link_to image_tag(pin.image.url(:medium)), pin %>
-          <div class="panel-body">
-            <%= pin.description %><br>
-            <strong><%= pin.user.email if pin.user %></strong><br>
-            <% if pin.user == current_user %>
-                  <%= link_to edit_pin_path(pin) do %>
-                      <span class="glyphicon glyphicon-edit" aria-hidden="true"></span>Edit
-                  <% end %>
-                  <%= link_to pin, method: :delete, data: { confirm: 'Are you sure?' } do %>
-                      <span class='glyphicon glyphicon-trash' aria-hidden="true"></span>Delete
-                  <% end %>
-            <% end %>
-          </div>
+              <%= link_to image_tag(pin.image.url(:medium)), pin %>
+              <div class="panel-body">
+                <%= pin.description %><br>
+                <strong><%= pin.user.name if pin.user %></strong><br>
+                <% if pin.user == current_user %>
+                      <%= link_to edit_pin_path(pin) do %>
+                          <span class="glyphicon glyphicon-edit" aria-hidden="true"></span>Edit
+                      <% end %>
+                      <%= link_to pin, method: :delete, data: { confirm: 'Are you sure?' } do %>
+                          <span class='glyphicon glyphicon-trash' aria-hidden="true"></span>Delete
+                      <% end %>
+                <% end %>
+              </div>
+
+            </div>
+        <% end %>
+      </div>
+        <div class="panel-footer" >
+           <div class="center">
+                <%= will_paginate @posts, renderer: BootstrapPagination::Rails %>
+           </div>
         </div>
-    <% end %>
-  </div>
 
 </div>
