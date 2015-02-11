@@ -5,7 +5,7 @@
         </div>
   </div>
   <div class="panel-body">
-    <p><center><%= image_tag @pin.image.url(:medium) %></center>
+    <p><center><%= image_tag @pin.image.url(:large) %></center>
       <p><%= @pin.description %></p>
         <p> <strong><%= @pin.user.email if @pin.user %></strong> </p>
   </div>
