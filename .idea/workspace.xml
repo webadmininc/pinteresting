@@ -2,44 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f4a4bf6a-1e98-4485-866e-c7acce58d3ea" name="Default" comment="making final changes">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/system/pins/images/000/000/013/medium/CAlogo.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/system/pins/images/000/000/013/original/CAlogo.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/system/pins/images/000/000/013/thumb/CAlogo.gif" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/public/system/pins/images/000/000/014/medium/page1_img1.jpg" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/public/system/pins/images/000/000/014/original/page1_img1.jpg" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/public/system/pins/images/000/000/014/thumb/page1_img1.jpg" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/public/system/pins/images/000/000/015/medium/page2_img1.jpg" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/public/system/pins/images/000/000/015/original/page2_img1.jpg" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/public/system/pins/images/000/000/015/thumb/page2_img1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/system/pins/images/000/000/017/medium/page2_img3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/system/pins/images/000/000/017/original/page2_img3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/system/pins/images/000/000/017/thumb/page2_img3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/system/pins/images/000/000/018/medium/page3_img1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/system/pins/images/000/000/018/original/page3_img1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/system/pins/images/000/000/018/thumb/page3_img1.jpg" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/public/system/pins/images/000/000/019/medium/page4_img1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/system/pins/images/000/000/019/original/page4_img1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/system/pins/images/000/000/019/thumb/page4_img1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/system/pins/images/000/000/020/medium/oracleBEA.gif" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/public/system/pins/images/000/000/020/original/oracleBEA.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/system/pins/images/000/000/020/thumb/oracleBEA.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/system/pins/images/000/000/022/medium/page3_img2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/system/pins/images/000/000/022/original/page3_img2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/system/pins/images/000/000/022/thumb/page3_img2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/system/pins/images/000/000/023/medium/page3_img4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/system/pins/images/000/000/023/original/page3_img4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/system/pins/images/000/000/023/thumb/page3_img4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/system/pins/images/000/000/024/medium/page4_img3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/system/pins/images/000/000/024/original/page4_img3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/system/pins/images/000/000/024/thumb/page4_img3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/system/pins/images/000/000/025/medium/slogan.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/system/pins/images/000/000/025/original/slogan.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/system/pins/images/000/000/025/thumb/slogan.jpg" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/migrate/20150121205620_add_user_id_to_pins.rb" afterPath="$PROJECT_DIR$/db/migrate/20150121205620_add_user_id_to_pins.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/layouts/_header.html.erb" afterPath="$PROJECT_DIR$/app/views/layouts/_header.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/pins/index.html.erb" afterPath="$PROJECT_DIR$/app/views/pins/index.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/models/pin.rb" afterPath="$PROJECT_DIR$/app/models/pin.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/pins/show.html.erb" afterPath="$PROJECT_DIR$/app/views/pins/show.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile" afterPath="$PROJECT_DIR$/Gemfile" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="pinteresting.iws" />
@@ -168,11 +139,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="20150121205620_add_user_id_to_pins.rb" pinned="false" current-in-tab="true">
+      <file leaf-file-name="20150121205620_add_user_id_to_pins.rb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/db/migrate/20150121205620_add_user_id_to_pins.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.053859964" vertical-offset="0" max-vertical-offset="557">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="180">
               <caret line="2" column="37" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="37" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Gemfile" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Gemfile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.6084559" vertical-offset="134" max-vertical-offset="990">
+              <caret line="31" column="17" selection-start-line="31" selection-start-column="17" selection-end-line="31" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -193,7 +174,7 @@
     <option name="UPDATE_TYPE" value="MERGE" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <push-targets>
-      <push-target-info repo="$PROJECT_DIR$" source="master" target-remote="origin" target-branch="master" />
+      <push-target-info repo="$PROJECT_DIR$" source="master" target-remote="heroku" target-branch="master" />
     </push-targets>
   </component>
   <component name="IdeDocumentHistory">
@@ -223,7 +204,6 @@
         <option value="$PROJECT_DIR$/app/assets/stylesheets/pins.scss" />
         <option value="$PROJECT_DIR$/app/assets/javascripts/pins.coffee" />
         <option value="$PROJECT_DIR$/app/assets/javascripts/application.js" />
-        <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/app/assets/stylesheets/application.css" />
         <option value="$PROJECT_DIR$/app/assets/stylesheets/bootstrap_and_customization.css.scss" />
         <option value="$PROJECT_DIR$/config/routes.rb" />
@@ -235,6 +215,7 @@
         <option value="$PROJECT_DIR$/config/environments/production.rb" />
         <option value="$PROJECT_DIR$/app/controllers/pins_controller.rb" />
         <option value="$PROJECT_DIR$/db/migrate/20150121205620_add_user_id_to_pins.rb" />
+        <option value="$PROJECT_DIR$/Gemfile" />
       </list>
     </option>
   </component>
@@ -760,7 +741,13 @@
       <option name="project" value="LOCAL" />
       <updated>1423673431414</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="postgresql issue resolve, integer">
+      <created>1423675063817</created>
+      <option name="number" value="00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1423675063817</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -785,17 +772,17 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-2" y="33" width="1924" height="1026" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32686085" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3279396" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32901832" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Heroku" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32901832" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Heroku" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32850778" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33656958" sideWeight="0.37220448" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3279396" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4933185" sideWeight="0.84398293" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.34743875" sideWeight="0.6277955" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.34743875" sideWeight="0.6277955" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.30085197" sideWeight="0.49946064" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1799787" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24973376" sideWeight="0.49946064" order="1" side_tool="false" content_ui="tabs" />
@@ -865,7 +852,8 @@
     <MESSAGE value="making final changes" />
     <MESSAGE value="change on the homepage" />
     <MESSAGE value="Amazon AWS S3 image connection for paperclip" />
-    <option name="LAST_COMMIT_MESSAGE" value="Amazon AWS S3 image connection for paperclip" />
+    <MESSAGE value="postgresql issue resolve, integer" />
+    <option name="LAST_COMMIT_MESSAGE" value="postgresql issue resolve, integer" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1095,14 +1083,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Gemfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6818182" vertical-offset="180" max-vertical-offset="975">
-          <caret line="32" column="30" selection-start-line="32" selection-start-column="30" selection-end-line="32" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/pins/_form.html.erb">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.5871886" vertical-offset="0" max-vertical-offset="562">
@@ -1248,8 +1228,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/db/migrate/20150121205620_add_user_id_to_pins.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.053859964" vertical-offset="0" max-vertical-offset="557">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="180">
           <caret line="2" column="37" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6084559" vertical-offset="134" max-vertical-offset="990">
+          <caret line="31" column="17" selection-start-line="31" selection-start-column="17" selection-end-line="31" selection-end-column="17" />
           <folding />
         </state>
       </provider>

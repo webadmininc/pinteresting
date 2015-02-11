@@ -28,7 +28,8 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 #use Gem for pinteresting app
 gem 'devise'
 gem "paperclip", "~> 4.2"
-gem 'aws-sdk', '~> 2.0.22'
+#gem 'aws-sdk', '~> 2.0.22'
+gem 'aws-sdk', '<2.0'
 gem 'jquery-turbolinks'
 gem 'masonry-rails', '~> 0.2.4'
 
