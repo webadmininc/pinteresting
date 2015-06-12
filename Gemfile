@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
-ruby '2.2.0'
+ruby '2.2.1'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.0'
@@ -25,8 +25,9 @@ gem 'jbuilder', '~> 2.0'
 # bundle exec rake doc:rails generates the API under doc/api.
 gem 'sdoc', '~> 0.4.0', group: :doc
 
-#use Gem for pinteresting app
+#using Devise - authentication
 gem 'devise'
+
 gem "paperclip", "~> 4.2"
 #gem 'aws-sdk', '~> 2.0.22'
 gem 'aws-sdk', '<2.0'
@@ -59,4 +60,5 @@ end
 group :production do
   gem 'pg'
   gem 'rails_12factor'
+  gem 'puma',      '2.11.1'
 end
