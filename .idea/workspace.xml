@@ -2,89 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5d1fdfe5-826e-4766-aef7-101b48eee886" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/header-bg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/header-bg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/system/pins/images/000/000/001/large/valledeCocora.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/system/pins/images/000/000/001/medium/valledeCocora.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/system/pins/images/000/000/001/original/valledeCocora.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/system/pins/images/000/000/001/thumb/valledeCocora.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/system/pins/images/000/000/002/large/valledeCocora2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/system/pins/images/000/000/002/medium/valledeCocora2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/system/pins/images/000/000/002/original/valledeCocora2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/system/pins/images/000/000/002/thumb/valledeCocora2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/system/pins/images/000/000/012/medium/logo.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/system/pins/images/000/000/012/original/logo.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/system/pins/images/000/000/012/thumb/logo.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/system/pins/images/000/000/014/large/Family_001.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/system/pins/images/000/000/014/medium/Family_001.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/system/pins/images/000/000/014/original/Family_001.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/system/pins/images/000/000/014/thumb/Family_001.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/system/pins/images/000/000/015/large/2014-10-18_14.27.53.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/system/pins/images/000/000/015/medium/2014-10-18_14.27.53.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/system/pins/images/000/000/015/original/2014-10-18_14.27.53.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/system/pins/images/000/000/015/thumb/2014-10-18_14.27.53.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/system/pins/images/000/000/017/large/2014-10-16_14.02.51.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/system/pins/images/000/000/017/medium/2014-10-16_14.02.51.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/system/pins/images/000/000/017/original/2014-10-16_14.02.51.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/system/pins/images/000/000/017/thumb/2014-10-16_14.02.51.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/system/pins/images/000/000/018/large/2014-10-18_14.28.40.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/system/pins/images/000/000/018/medium/2014-10-18_14.28.40.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/system/pins/images/000/000/018/original/2014-10-18_14.28.40.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/system/pins/images/000/000/018/thumb/2014-10-18_14.28.40.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/system/pins/images/000/000/019/large/2014-10-19_13.13.07.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/system/pins/images/000/000/019/medium/2014-10-19_13.13.07.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/system/pins/images/000/000/019/original/2014-10-19_13.13.07.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/system/pins/images/000/000/019/thumb/2014-10-19_13.13.07.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/system/pins/images/000/000/020/large/2014-10-19_13.13.03.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/system/pins/images/000/000/020/medium/2014-10-19_13.13.03.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/system/pins/images/000/000/020/original/2014-10-19_13.13.03.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/system/pins/images/000/000/020/thumb/2014-10-19_13.13.03.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/system/pins/images/000/000/022/large/2014-10-18_14.28.07.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/system/pins/images/000/000/022/medium/2014-10-18_14.28.07.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/system/pins/images/000/000/022/original/2014-10-18_14.28.07.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/system/pins/images/000/000/022/thumb/2014-10-18_14.28.07.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/system/pins/images/000/000/023/large/2014-10-16_13.02.13.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/system/pins/images/000/000/023/medium/2014-10-16_13.02.13.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/system/pins/images/000/000/023/original/2014-10-16_13.02.13.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/system/pins/images/000/000/023/thumb/2014-10-16_13.02.13.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/system/pins/images/000/000/024/large/2014-11-16_12.13.41.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/system/pins/images/000/000/024/medium/2014-11-16_12.13.41.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/system/pins/images/000/000/024/original/2014-11-16_12.13.41.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/system/pins/images/000/000/024/thumb/2014-11-16_12.13.41.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/system/pins/images/000/000/025/large/2014-10-17_14.56.13.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/system/pins/images/000/000/025/medium/2014-10-17_14.56.13.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/system/pins/images/000/000/025/original/2014-10-17_14.56.13.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/system/pins/images/000/000/025/thumb/2014-10-17_14.56.13.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/system/pins/images/000/000/026/large/2014-10-13_14.19.33.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/system/pins/images/000/000/026/medium/2014-10-13_14.19.33.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/system/pins/images/000/000/026/original/2014-10-13_14.19.33.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/system/pins/images/000/000/026/thumb/2014-10-13_14.19.33.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/system/pins/images/000/000/027/large/2014-10-12_13.57.49.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/system/pins/images/000/000/027/medium/2014-10-12_13.57.49.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/system/pins/images/000/000/027/original/2014-10-12_13.57.49.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/system/pins/images/000/000/027/thumb/2014-10-12_13.57.49.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/system/pins/images/000/000/028/large/2014-10-16_13.13.56.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/system/pins/images/000/000/028/medium/2014-10-16_13.13.56.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/system/pins/images/000/000/028/original/2014-10-16_13.13.56.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/system/pins/images/000/000/028/thumb/2014-10-16_13.13.56.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/system/pins/images/000/000/029/large/2014-11-16_11.41.03.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/system/pins/images/000/000/029/medium/2014-11-16_11.41.03.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/system/pins/images/000/000/029/original/2014-11-16_11.41.03.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/system/pins/images/000/000/029/thumb/2014-11-16_11.41.03.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/system/pins/images/000/000/031/large/2015-02-08_14.44.11.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/system/pins/images/000/000/031/medium/2015-02-08_14.44.11.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/system/pins/images/000/000/031/original/2015-02-08_14.44.11.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/system/pins/images/000/000/031/thumb/2015-02-08_14.44.11.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/system/pins/images/000/000/033/large/2015-02-09_18.53.14.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/system/pins/images/000/000/033/medium/2015-02-09_18.53.14.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/system/pins/images/000/000/033/original/2015-02-09_18.53.14.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/system/pins/images/000/000/033/thumb/2015-02-09_18.53.14.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/system/pins/images/000/000/034/large/2014-10-17_21.27.26.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/system/pins/images/000/000/034/medium/2014-10-17_21.27.26.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/system/pins/images/000/000/034/original/2014-10-17_21.27.26.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/system/pins/images/000/000/034/thumb/2014-10-17_21.27.26.jpg" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/pages/_home.html.erb" afterPath="$PROJECT_DIR$/app/views/pages/_home.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/images/02.jpg" afterPath="$PROJECT_DIR$/public/images/02.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/layouts/_header.html.erb" afterPath="$PROJECT_DIR$/app/views/layouts/_header.html.erb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/pages/about.html.erb" afterPath="$PROJECT_DIR$/app/views/pages/about.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/application.rb" afterPath="$PROJECT_DIR$/config/application.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/stylesheets/bootstrap_and_customization.css.scss" afterPath="$PROJECT_DIR$/app/assets/stylesheets/bootstrap_and_customization.css.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -103,10 +24,16 @@
   </component>
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/pinteresting@Development__pinteresting.coverage" NAME="Development: pinteresting Coverage Results" MODIFIED="1435034215362" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="pinteresting" />
+    <SUITE FILE_PATH="coverage/pinteresting@Development__pinteresting.coverage" NAME="Development: pinteresting Coverage Results" MODIFIED="1435096949668" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="pinteresting" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DatabaseView">
+    <option name="FLATTEN" value="false" />
+    <option name="GROUP_BY_TYPE" value="true" />
+    <option name="SORT_CHILDREN" value="false" />
+    <option name="SHOW_TABLE_CONSTRAINTS" value="true" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
@@ -117,18 +44,48 @@
       <file leaf-file-name="bootstrap_and_customization.css.scss" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/bootstrap_and_customization.css.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-17.5">
-              <caret line="28" column="2" selection-start-line="28" selection-start-column="2" selection-end-line="28" selection-end-column="2" />
+            <state vertical-scroll-proportion="-20.583334">
+              <caret line="35" column="96" selection-start-line="35" selection-start-column="96" selection-end-line="35" selection-end-column="96" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_home.html.erb" pinned="false" current-in-tab="true">
+      <file leaf-file-name="_home.html.erb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/pages/_home.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.12998267">
-              <caret line="5" column="62" selection-start-line="5" selection-start-column="62" selection-end-line="5" selection-end-column="62" />
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="about.html.erb" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/views/pages/about.html.erb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.07705479">
+              <caret line="3" column="48" selection-start-line="3" selection-start-column="48" selection-end-line="3" selection-end-column="48" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_header.html.erb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/layouts/_header.html.erb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/application.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="30" column="2" selection-start-line="30" selection-start-column="2" selection-end-line="30" selection-end-column="2" />
               <folding />
             </state>
           </provider>
@@ -187,12 +144,13 @@
         <option value="$PROJECT_DIR$/app/views/pins/index.html.erb" />
         <option value="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
         <option value="$PROJECT_DIR$/app/views/layouts/_footer.html.erb" />
-        <option value="$PROJECT_DIR$/app/views/layouts/_header.html.erb" />
         <option value="$PROJECT_DIR$/app/views/devise/sessions/new.html.erb" />
         <option value="$PROJECT_DIR$/app/views/devise/shared/_links.html.erb" />
-        <option value="$PROJECT_DIR$/app/views/pages/about.html.erb" />
-        <option value="$PROJECT_DIR$/app/assets/stylesheets/bootstrap_and_customization.css.scss" />
         <option value="$PROJECT_DIR$/app/views/pages/_home.html.erb" />
+        <option value="$PROJECT_DIR$/app/assets/stylesheets/bootstrap_and_customization.css.scss" />
+        <option value="$PROJECT_DIR$/config/application.rb" />
+        <option value="$PROJECT_DIR$/app/views/layouts/_header.html.erb" />
+        <option value="$PROJECT_DIR$/app/views/pages/about.html.erb" />
       </list>
     </option>
   </component>
@@ -239,9 +197,9 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="RailsProjectView" />
       <pane id="Scratches" />
+      <pane id="RailsProjectView" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -257,6 +215,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="pinteresting" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pinteresting" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pinteresting" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="config" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -353,6 +325,28 @@
               <option name="myItemId" value="assets" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="stylesheets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pinteresting" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pinteresting" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -372,7 +366,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="javascripts" />
+              <option name="myItemId" value="fonts" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -586,15 +580,15 @@
     <frame x="49" y="18" width="1871" height="1062" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26735923" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27009293" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33650795" sideWeight="0.5062876" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32910052" sideWeight="0.5062876" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32968834" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32910052" sideWeight="0.4958994" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32910052" sideWeight="0.49371243" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33650795" sideWeight="0.49371243" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33579725" sideWeight="0.48933843" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -629,13 +623,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/config/environments/production.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="43" column="2" selection-start-line="43" selection-start-column="2" selection-end-line="43" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -648,7 +635,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -677,7 +663,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -729,7 +714,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -781,7 +765,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -892,7 +875,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0779896">
           <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -900,15 +882,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.625">
           <caret line="1" column="67" selection-start-line="1" selection-start-column="67" selection-end-line="1" selection-end-column="67" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/layouts/_header.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.28249568">
-          <caret line="11" column="53" selection-start-line="11" selection-start-column="53" selection-end-line="11" selection-end-column="53" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -916,7 +889,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -924,7 +896,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-17.5">
           <caret line="28" column="57" selection-start-line="28" selection-start-column="57" selection-end-line="28" selection-end-column="57" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -932,7 +903,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-3.75">
           <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -940,7 +910,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -948,23 +917,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/pages/about.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.12998267">
-          <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/bootstrap_and_customization.css.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-17.5">
-          <caret line="28" column="2" selection-start-line="28" selection-start-column="2" selection-end-line="28" selection-end-column="2" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -994,10 +946,50 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/fonts/Franchise-Bold-hinted.ttf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.81414473">
+          <caret line="33" column="17" selection-start-line="33" selection-start-column="17" selection-end-line="33" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/bootstrap_and_customization.css.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-20.583334">
+          <caret line="35" column="96" selection-start-line="35" selection-start-column="96" selection-end-line="35" selection-end-column="96" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/application.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="30" column="2" selection-start-line="30" selection-start-column="2" selection-end-line="30" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/layouts/_header.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/pages/_home.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.12998267">
-          <caret line="5" column="62" selection-start-line="5" selection-start-column="62" selection-end-line="5" selection-end-column="62" />
+        <state vertical-scroll-proportion="-0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/pages/about.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.07705479">
+          <caret line="3" column="48" selection-start-line="3" selection-start-column="48" selection-end-line="3" selection-end-column="48" />
           <folding />
         </state>
       </provider>

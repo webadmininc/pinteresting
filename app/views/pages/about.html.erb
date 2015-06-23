@@ -1,4 +1,14 @@
-<div >
+<script type="text/javascript">
+
+    $(document).ready(function() {
+        var images = ['04.jpg', '05.jpg', '06   .jpg'];
+
+        $('.jumbotron').css({'background-image': 'url(/images/' + images[Math.floor(Math.random() * images.length)] + ')'});
+    });
+
+</script>
+
+<div class="jumbotron">
   <h1>About Me</h1>
 <p>Welcome to my photography gallery. A little about me: </p>
   <h3>Name: Max Monterrey</h3>

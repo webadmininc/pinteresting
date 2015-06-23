@@ -3,11 +3,11 @@
 @import "bootstrap-sprockets";
 
 
-$body-bg:                     white;
+$body-bg:                     #f1c40f;
 $font-family-sans-serif:      'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 $navbar-height:               45px;
-$navbar-default-bg:           white;
-$navbar-default-brand-color:  #c0392b;
+$navbar-default-bg:           black;
+$navbar-default-brand-color:  gray;
 $brand-primary:               #c0392b;
 $jumbotron-bg:                white;
 
@@ -20,8 +20,8 @@ $jumbotron-bg:                white;
 }
 
 .navbar-brand {
-  font-size: 30px;
-  font-family: 'Lobster Two', cursive;
+  font-size: 50px;
+  font-family: 'Franchise Regular';
 }
 
 .jumbotron {
@@ -33,3 +33,9 @@ $jumbotron-bg:                white;
 
 }
 
+/* a downloaded font and register to use with rails. 2 props were added on the application.rb */
+@font-face {
+  font-family: 'Franchise Regular';
+  src: url('/assets/Franchise-Bold-hinted.ttf') format('truetype');
+
+}
