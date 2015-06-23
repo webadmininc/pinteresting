@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="5d1fdfe5-826e-4766-aef7-101b48eee886" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/pages/_home.html.erb" afterPath="$PROJECT_DIR$/app/views/pages/_home.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/stylesheets/bootstrap_and_customization.css.scss" afterPath="$PROJECT_DIR$/app/assets/stylesheets/bootstrap_and_customization.css.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/pins/index.html.erb" afterPath="$PROJECT_DIR$/app/views/pins/index.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/pins/show.html.erb" afterPath="$PROJECT_DIR$/app/views/pins/show.html.erb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="pinteresting.iws" />
@@ -57,8 +54,8 @@
       <file leaf-file-name="_home.html.erb" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/views/pages/_home.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.05199307">
-              <caret line="2" column="111" selection-start-line="2" selection-start-column="111" selection-end-line="2" selection-end-column="111" />
+            <state vertical-scroll-proportion="0.23396881">
+              <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -969,8 +966,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/pages/_home.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.05199307">
-          <caret line="2" column="111" selection-start-line="2" selection-start-column="111" selection-end-line="2" selection-end-column="111" />
+        <state vertical-scroll-proportion="0.23396881">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding />
         </state>
       </provider>
