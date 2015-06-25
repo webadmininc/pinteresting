@@ -5,7 +5,7 @@
 
 $body-bg:                     #f1c40f;
 $font-family-sans-serif:      'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-$navbar-height:               45px;
+$navbar-height:               165px;
 $navbar-default-bg:           black;
 $navbar-default-brand-color:  #c0392b;
 $brand-primary:               #c0392b;
@@ -19,7 +19,7 @@ $jumbotron-bg:                white;
 @import 'bootstrap';
 
 .navbar-brand {
-  font-size: 50px;
+  font-size: 150px;
   font-family: 'Franchise Regular';
 }
 
