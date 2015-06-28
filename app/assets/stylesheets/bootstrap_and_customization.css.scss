@@ -20,7 +20,7 @@ $jumbotron-bg:                white;
 
 .navbar-brand {
   font-size: 100px;
-  font-family: 'Franchise Regular';
+  font-family: 'WisdomScript';
 }
 
 .jumbotron {
@@ -34,8 +34,8 @@ $jumbotron-bg:                white;
 
 /* a downloaded font and register to use with rails. 2 props were added on the application.rb */
 @font-face {
-  font-family: 'Franchise Regular';
-  src: url('/assets/Franchise-Bold-hinted.ttf') format('truetype');
+  font-family: 'WisdomScript';
+  src: url('/assets/WisdomScript.otf') format('truetype');
 }
 
 
